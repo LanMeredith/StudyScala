@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/study.function/Study.Function.iml" filepath="$PROJECT_DIR$/study.function/Study.Function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study.flowControl/study.FlowControl.iml" filepath="$PROJECT_DIR$/study.flowControl/study.FlowControl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study.exception/study.exception.iml" filepath="$PROJECT_DIR$/study.exception/study.exception.iml" />
+    </modules>
+  </component>
+</project>
